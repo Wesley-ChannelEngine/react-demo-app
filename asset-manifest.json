@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/wesley-channelEngine.github.io/react-demo-app/static/css/main.7d180cbf.chunk.css",
-    "main.js": "/wesley-channelEngine.github.io/react-demo-app/static/js/main.24ae6de7.chunk.js",
-    "main.js.map": "/wesley-channelEngine.github.io/react-demo-app/static/js/main.24ae6de7.chunk.js.map",
-    "runtime-main.js": "/wesley-channelEngine.github.io/react-demo-app/static/js/runtime-main.05257a99.js",
-    "runtime-main.js.map": "/wesley-channelEngine.github.io/react-demo-app/static/js/runtime-main.05257a99.js.map",
-    "static/js/2.5b3ac5ca.chunk.js": "/wesley-channelEngine.github.io/react-demo-app/static/js/2.5b3ac5ca.chunk.js",
-    "static/js/2.5b3ac5ca.chunk.js.map": "/wesley-channelEngine.github.io/react-demo-app/static/js/2.5b3ac5ca.chunk.js.map",
-    "static/js/3.cfa492fe.chunk.js": "/wesley-channelEngine.github.io/react-demo-app/static/js/3.cfa492fe.chunk.js",
-    "static/js/3.cfa492fe.chunk.js.map": "/wesley-channelEngine.github.io/react-demo-app/static/js/3.cfa492fe.chunk.js.map",
-    "index.html": "/wesley-channelEngine.github.io/react-demo-app/index.html",
-    "static/css/main.7d180cbf.chunk.css.map": "/wesley-channelEngine.github.io/react-demo-app/static/css/main.7d180cbf.chunk.css.map",
-    "static/js/2.5b3ac5ca.chunk.js.LICENSE.txt": "/wesley-channelEngine.github.io/react-demo-app/static/js/2.5b3ac5ca.chunk.js.LICENSE.txt",
-    "static/media/logo.6ce24c58.svg": "/wesley-channelEngine.github.io/react-demo-app/static/media/logo.6ce24c58.svg"
+    "main.css": "/react-demo-app/static/css/main.7d180cbf.chunk.css",
+    "main.js": "/react-demo-app/static/js/main.24ae6de7.chunk.js",
+    "main.js.map": "/react-demo-app/static/js/main.24ae6de7.chunk.js.map",
+    "runtime-main.js": "/react-demo-app/static/js/runtime-main.1fe9097b.js",
+    "runtime-main.js.map": "/react-demo-app/static/js/runtime-main.1fe9097b.js.map",
+    "static/js/2.5b3ac5ca.chunk.js": "/react-demo-app/static/js/2.5b3ac5ca.chunk.js",
+    "static/js/2.5b3ac5ca.chunk.js.map": "/react-demo-app/static/js/2.5b3ac5ca.chunk.js.map",
+    "static/js/3.cfa492fe.chunk.js": "/react-demo-app/static/js/3.cfa492fe.chunk.js",
+    "static/js/3.cfa492fe.chunk.js.map": "/react-demo-app/static/js/3.cfa492fe.chunk.js.map",
+    "index.html": "/react-demo-app/index.html",
+    "static/css/main.7d180cbf.chunk.css.map": "/react-demo-app/static/css/main.7d180cbf.chunk.css.map",
+    "static/js/2.5b3ac5ca.chunk.js.LICENSE.txt": "/react-demo-app/static/js/2.5b3ac5ca.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/react-demo-app/static/media/logo.6ce24c58.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.05257a99.js",
+    "static/js/runtime-main.1fe9097b.js",
     "static/js/2.5b3ac5ca.chunk.js",
     "static/css/main.7d180cbf.chunk.css",
     "static/js/main.24ae6de7.chunk.js"
