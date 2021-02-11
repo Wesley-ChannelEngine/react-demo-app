@@ -4,6 +4,7 @@
   "private": true,
   "homepage": "https://wesley-channelengine.github.io/react-demo-app/",
   "dependencies": {
+    "@popperjs/core": "^2.6.0",
     "@testing-library/jest-dom": "^5.11.4",
     "@testing-library/react": "^11.1.0",
     "@testing-library/user-event": "^12.1.10",
@@ -11,7 +12,9 @@
     "@types/node": "^12.0.0",
     "@types/react": "^17.0.0",
     "@types/react-dom": "^17.0.0",
+    "bootstrap": "5.0.0-beta2",
     "gh-pages": "^3.1.0",
+    "node-sass": "^5.0.0",
     "react": "^17.0.1",
     "react-dom": "^17.0.1",
     "react-scripts": "4.0.2",
@@ -24,7 +27,9 @@
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build",
     "test": "react-scripts test",
-    "eject": "react-scripts eject"
+    "eject": "react-scripts eject",
+    "storybook": "start-storybook -p 6006 -s public",
+    "build-storybook": "build-storybook -s public"
   },
   "eslintConfig": {
     "extends": [
@@ -43,5 +48,13 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+  },
+  "devDependencies": {
+    "@storybook/addon-actions": "^6.1.17",
+    "@storybook/addon-essentials": "^6.1.17",
+    "@storybook/addon-links": "^6.1.17",
+    "@storybook/node-logger": "^6.1.17",
+    "@storybook/preset-create-react-app": "^3.1.5",
+    "@storybook/react": "^6.1.17"
   }
 }
